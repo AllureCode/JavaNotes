@@ -3148,8 +3148,6 @@ jar包：执行SpringBoot主类的main方法，启动ioc容器，创建嵌入式
 
 war包：启动服务器，**服务器启动SpringBoot应用**【SpringBootServletInitializer】，启动ioc容器；
 
-
-
 servlet3.0（Spring注解版）：
 
 8.2.4 Shared libraries / runtimes pluggability：
